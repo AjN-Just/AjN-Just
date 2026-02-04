@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est AjN (Just Awala)
+# 👋 Salut, moi c’est Just Awala
 
 🎓 Étudiant en informatique | 💻 Développement • 🌐 Réseaux • 🔐 Cybersécurité  
 📍 Passionné par la compréhension des systèmes, de leur conception à leur sécurisation.
