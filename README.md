@@ -1,66 +1,75 @@
-# 👋 Salut, moi c’est Just Awala
+<!-- ========================= HEADER ========================= -->
+<h1 align="center">Salut, moi c’est Just AWALA 👋</h1>
+<p align="center">
+  Développeur Python | Informatique appliquée | Apprentissage continu
+</p>
 
-🎓 Étudiant en informatique | 💻 Développement • 🌐 Réseaux • 🔐 Cybersécurité  
-📍 Passionné par la compréhension des systèmes, de leur conception à leur sécurisation.
-
----
-
-## 🧠 À propos de moi
-Je suis un informaticien en progression continue, avec une base solide en **développement**, et une montée en compétence active en **réseaux** et **cybersécurité**.  
-Je travaille beaucoup en **lab**, en **auto-formation**, et sur des **projets pratiques** pour comprendre le *comment* et surtout le *pourquoi*.
-
----
-
-## 🛠️ Compétences techniques
-
-### Développement
-- Python (intermédiaire)
-- Web (HTML, CSS, bases JS)
-- Logique algorithmique & scripting
-
-### Systèmes & Linux
-- Linux (Kali, Ubuntu)
-- Gestion fichiers, permissions, services
-- Git & GitHub (workflow de base)
-
-### Réseaux & Sécurité
-- Bases réseaux (IP, DNS, DHCP, LDAP)
-- Wi-Fi security (WPA/WPA2, EAP, MSCHAPv2 – en lab)
-- Certificats, TLS, signatures numériques
-- Notions de cybersécurité défensive
+<p align="center">
+  <a href="https://github.com/AjN-Just">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/just-awala-1370b832a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📂 Projets & Labs
-> Certains projets sont encore en cours ou en laboratoire, mais reflètent mon apprentissage réel.
+<!-- ========================= ABOUT ME ========================= -->
+## 👨‍💻 À propos de moi
+- Étudiant en informatique, orienté **compréhension et pratique**
+- Spécialisé actuellement en **développement Python**
+- Approche basée sur des **projets concrets** et des **labs**
+- Objectif : évoluer vers les **réseaux** puis la **cybersécurité**
 
-- 🔐 **Labs Wi-Fi & Authentification**  
-  Étude WPA/WPA2-Enterprise, EAP, MSCHAPv2 (environnement isolé)
+---
 
-- 🐍 **Scripts Python**
-  Automatisation, logique de jeu, scripts utilitaires
+<!-- ========================= SKILLS ========================= -->
+## 💻 Compétences actuelles
 
-- 🗂️ **Projets systèmes**
-  LDAP, gestion utilisateurs, certificats, Linux server
+<p>
+  <img src="https://img.shields.io/badge/Python-Intermédiaire-blue?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Programmation-Algorithmique-success"/>
+  <img src="https://img.shields.io/badge/Web-HTML%20%7C%20CSS-orange"/>
+  <img src="https://img.shields.io/badge/Linux-Ubuntu%20%7C%20Kali-black?logo=linux"/>
+  <img src="https://img.shields.io/badge/Git-GitHub-F05032?logo=git&logoColor=white"/>
+</p>
 
-👉 Voir les dépôts :  
+---
+
+<!-- ========================= PROJECTS ========================= -->
+## 📂 Projets Python
+
+- 🐍 **Scripts & outils**
+  - Automatisation simple
+  - Manipulation de fichiers
+  - Logique algorithmique
+
+- 🎮 **Mini-projets**
+  - Jeux simples (ex : serpent)
+  - Exercices pratiques Python
+
+👉 Dépôts :  
 🔗 https://github.com/AjN-Just
 
 ---
 
-## 🎯 Objectifs actuels
-- Consolider le **développement Python**
-- Approfondir les **réseaux**
-- Monter en compétence sérieuse en **cybersécurité**
-- Construire des projets concrets et documentés
+<!-- ========================= LEARNING ========================= -->
+## 📘 En cours d’apprentissage
+- Python avancé (structuration, bonnes pratiques)
+- Bases réseaux (IP, services, protocoles)
+- Introduction à la cybersécurité
+
+> Cette section évoluera avec mes projets et mes compétences.
 
 ---
 
-## 🌐 Me contacter
-- GitHub : https://github.com/AjN-Just  
-- LinkedIn : https://www.linkedin.com/in/just-awala-1370b832a  
-- Facebook : https://www.facebook.com/profile.php?id=61577747738229
+<!-- ========================= CONTACT ========================= -->
+## 📫 Contact
+<p>
+  <a href="https://www.linkedin.com/in/just-awala-1370b832a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
----
-
-> *Apprendre en profondeur vaut mieux que savoir en surface.*
+<p align="center">README évolutif — mis à jour régulièrement 🚀</p>
