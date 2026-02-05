@@ -19,7 +19,6 @@
 ## 👨‍💻 À propos de moi
 - Étudiant en informatique, orienté **compréhension et pratique**
 - Spécialisé actuellement en **développement Python**
-- Approche basée sur des **projets concrets** et des **labs**
 - Objectif : évoluer vers les **réseaux** puis la **cybersécurité**
 
 ---
